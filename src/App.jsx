@@ -1,3 +1,4 @@
+import client from "./fetchProjects";
 const App = () => {
   return <h1>Contentful Starter</h1>;
 };
